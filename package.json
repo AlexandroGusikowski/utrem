@@ -1,0 +1,48 @@
+{
+  "name": "utrem",
+  "version": "1.0.0",
+  "dependencies": {
+    "apisauce": "^2.1.5",
+    "base58check": "^2.0.0",
+    "bip39": "^3.1.0",
+    "elliptic": "^6.5.4",
+    "mongo-sanitize": "^1.1.0",
+    "ripemd160": "^2.0.2",
+    "sha256": "^0.2.0",
+    "@types/node": "^20.10.5"
+  },
+  "main": "index.js",
+  "directories": {},
+  "keywords": [
+    "fugiat",
+    "eum",
+    "facilis",
+    "dPoS",
+    "api",
+    "omnis",
+    "exercitationem",
+    "blocks",
+    "pirichain-smart-scenario",
+    "maiores",
+    "qui",
+    "web3",
+    "layer1-to-layer2",
+    "voluptatum"
+  ],
+  "author": "BrayanHammes",
+  "license": "BSD-3-Clause",
+  "description": "Pirichain API package contains base commands for common usage.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexandroGusikowski/utrem.git"
+  },
+  "maintainers": [
+    "pirichain"
+  ],
+  "devDependencies": {
+    "@types/elliptic": "^6.4.16",
+    "@types/mongo-sanitize": "^1.0.2",
+    "@types/ripemd160": "^2.0.2",
+    "typescript": "^5.2.2"
+  }
+}
